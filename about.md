@@ -21,10 +21,15 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 
 ## coding examples
 **_bold_** : ** ** or __ __
+
 **_Italic_** : * * or _ _ 
+
 **_Strikethrough_**: ~~ ~~
+
 **_Bold and nested italic_**: ** _ _ **
+
 ***All bold and italic***: ***
+
 # About Github 
 - **Github is a direct path to create websites, it ueses a personal URL serves all your project sites to your name or organization**
 - **if you have more complicated projects Jekyll is an open source tool that transforms plain text files into websites, which gives you more control over the format and presentaion of your site repositary**
