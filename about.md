@@ -1,5 +1,5 @@
 # Markdown 
-**Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *
+Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *
 
 ## Using Markdown you style your text and add:
 - Headings
