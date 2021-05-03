@@ -1,23 +1,18 @@
-# **Growth mindest**
-### A man is a product of his thought what he thinks he becomes  -ghandi 
-  
+# Home Page 
+
+## ***Intro***
+
+My name is Sara, I am 24 years old, I have graduated from the University Of Jordan majoring in multimedia, I was working as a UI/UX designer, I decided to learn coding to be able to design and code my own website.
+
+## ***Table of content***
+
+Assignment | Links 
+-----------|-------------
+Read 01 | [Growth mindset](growthMindset.md)
+Read 02 | [Markdown](aboutMd.md)
 
 
-***Your thoughts determine who you are***
 
-The thought that you keep repeating in your mind will effect all your life so 
-***replace***
-your
-~~negative thoughts~~ 
-with positive thoughts 
-
-
-### three notes to self for growth mindest 
-- finish the things that you have already started 
-- dont give up when you are tired 
-- be sure that you will get the results of your work
-
-my github link (Sara alshater) [https://github.com/saraalshater]
 
 
 
