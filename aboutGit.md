@@ -21,7 +21,22 @@ Git is a DVCS that stores data in a file system made up of snapshots. Each time 
 4. Files in Git can reside in three main states: committed, modified and staged.
 
 ### **Using Git**: 
+This is some of the examples of using Git
 * To customize you Git you should use `git config`
 
 * To check settings, use the git `config --list` command.
 * To get help use `git help command` note that there's other ways to get help. 
+* Switch to the target project’s directory `cd test`
+* To determine the state of files, utilize the `git status` command
+* Track one file only by using the following format `git add filename`
+* Track all files in a repository by using the following command `git add *`
+
+### **Local Repository Structure**
+1. Working Directory
+2. Index
+3. Head
+
+### **The Life Cycle of File Status**
+1. After you edit a file, Git flags it as modified because of changes made after the previous commit. 
+2. You stage the modified file
+3. Then, you commit staged changes.
