@@ -30,6 +30,10 @@ This is some of the examples of using Git
 * To determine the state of files, utilize the `git status` command
 * Track one file only by using the following format `git add filename`
 * Track all files in a repository by using the following command `git add *`
+* Committing a files `git commit -m “why you made it”`
+* Committing all files `git commit -a`
+* Pushing changes `git push origin main`
+*When you are not ready to commit changes but do not want to lose them either use `git stash` 
 
 ### **Local Repository Structure**
 1. Working Directory
