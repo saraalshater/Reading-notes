@@ -10,7 +10,7 @@ Assignment | Links
 -----------|-------------
 Read 01 | [Growth mindset](growthMindset.md)
 Read 02 | [Markdown](aboutMd.md)
-
+Read 03 | [Wireframing & Html & Semantics](about3topics.md)
 
 
 
