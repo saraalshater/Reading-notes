@@ -1,7 +1,7 @@
 # Reading 1
 # Wireframing 
 ## **What is Wireframe** ?
-Wireframe is the outline of how you want your design to look like. 
+Wireframe is the outline of how you want your design to look like. d
 
 ## **Why to use Wireframe** ?
 1. To help designer to plan how everything looks like before getting into the design details
