@@ -12,8 +12,8 @@ Read 01 | [Growth mindset](growthMindset.md)
 Read 02 | [Markdown](aboutMd.md)
 Read 03 | [Wireframing & Html & Semantics](about3topics.md)
 Read 04 | [Css](aboutCss.md)
-Read 05 | [Operator](Operator.md)
-=======
+Read 05 | [Operator](aboutOperator.md)
+Read 06 | [Function](aboutFunction.md)
 
 
 
