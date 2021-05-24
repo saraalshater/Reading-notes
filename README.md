@@ -18,8 +18,21 @@ Read 06 | [Function](aboutFunction.md)
 # 201
 Assignment | Links 
 -----------|-------------
-Read 01 | [Pre-work](class-01.md)
-Read 02 | [class 2](class-02.md)
+Day 01 | [Pre-work](class-01.md)
+Day 02 | [class 2](class-02.md)
+Day 03 | [Read 03](class-03.md)
+Day 04 |
+Day 05 |
+Day 06 |
+Day 07 |
+Day 08 | 
+Day 09 |
+Day 10 |
+Day 11 |
+Day 12 |
+Day 13 |
+Day 14 |
+Day 15 |
 
 
 
