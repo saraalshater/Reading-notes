@@ -12,7 +12,7 @@ When you visit a website, the web server hosting that site could be anywhere in 
 **Block level elements :** elements that always appear to start on a new line in the browser window. These are known as . 
 
 Examples of block elements are
- <h1>, <p>, <ul>, and <li>.
+ `<h1>, <p>, <ul>, and <li>.`
 
 
 
@@ -22,7 +22,7 @@ Examples of block elements are
 
 Examples of inline elements are 
 
-<a>, <b>, <em>, and <img>.
+`<a>, <b>, <em>, and <img>.`
 
 ## **Process & Design**
 ### ***important information to search and collect about the audience***
@@ -34,3 +34,7 @@ Examples of inline elements are
 6. Create a Site map. 
 7. A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 8. Connect your design to the aim of the website
+
+
+
+[link](https://github.com/saraalshater/Reading-notes/blob/main/Code-201-Reading-notes/class-01.md)
