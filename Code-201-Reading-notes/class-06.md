@@ -73,3 +73,4 @@ page should have the same value for an id attribute),
 but it can only be used when the element you want
 to access has an id attribute. 
 
+[link](https://github.com/saraalshater/Reading-notes/blob/main/Code-201-Reading-notes/class-06.md)
