@@ -19,16 +19,16 @@ Read 06 | [Function](aboutFunction.md)
 Assignment | Links 
 -----------|-------------
 Day 01 | [Pre-work](class-01.md)
-Day 02 | [class 2](class-02.md)
-Day 03 | [Read 03](class-03.md)
-Day 04 |
-Day 05 |
-Day 06 |
-Day 07 |
-Day 08 | 
-Day 09 |
-Day 10 |
-Day 11 |
+Day 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
+Day 03 | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
+Day 04 | [HTML Links, CSS Layout, JS Functions](class-04.md)
+Day 05 | [HTML Images; CSS Color & Text](class-05.md)
+Day 06 | [JS Object Literals; The DOM](class-06.md)
+Day 07 | [HTML Tables; JS Constructor Functions](class-07.md)
+Day 08 | [More CSS Layout](class-08.md)
+Day 09 | [Forms and Events](class-09.md)
+Day 10 | [JS Debugging](class-10.md)
+Day 11 | [Audio, Video, Images](class-11.md)
 Day 12 |
 Day 13 |
 Day 14 |

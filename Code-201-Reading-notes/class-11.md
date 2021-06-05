@@ -369,4 +369,17 @@ Google called ***Google Analytics.**
 
 
 
-[Reading Link]()
+
+# Video and audio
+
+ [link](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+
+## HTML5 video and audio
+The `<video>` and `<audio>` elements allow us to embed video and audio into web pages. As we showed in Video and audio content, a typical implementation looks like this:
+
+
+
+
+
+
+[Reading Link](https://github.com/saraalshater/Reading-notes/blob/main/Code-201-Reading-notes/class-11.md)
