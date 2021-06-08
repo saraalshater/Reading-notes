@@ -21,4 +21,4 @@ HTML5 Storage” is a specification named Web Storage, which was at one time par
 “5 megabytes” is how much storage space each origin gets by default. This is surprisingly consistent across browsers, although it is phrased as no more than a suggestion in the HTML5 Storage specification. One thing to keep in mind is that you’re storing strings, not data in its original format. If you’re storing a lot of integers or floats, the difference in representation can really add up. Each digit in that float is being stored as a character, not in the usual representation of a floating point number.
 
 
-[link]()
+[link](https://github.com/saraalshater/Reading-notes.git)
