@@ -38,8 +38,8 @@ Day 15 | [ class 15](class-15.md)
 # 301
 Assignment | Links 
 -----------|-------------
-Day 01 | 
-Day 02 | 
+Day 01 | [read 1](301-class-01.md)
+Day 02 | [React: Component Lifecycle Events](301-class-02.md)
 Day 03 | 
 Day 04 | 
 Day 05 |
