@@ -40,7 +40,7 @@ Assignment | Links
 -----------|-------------
 Day 01 | [read 1](301-class-01.md)
 Day 02 | [React: Component Lifecycle Events](301-class-02.md)
-Day 03 | 
+Day 03 | []
 Day 04 | 
 Day 05 |
 Day 06 | 
