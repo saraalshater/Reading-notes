@@ -16,9 +16,9 @@ Read 05 | [Operator](aboutOperator.md)
 Read 06 | [Function](aboutFunction.md)
 
 # 201
-Assignment | Links 
------------|-------------
-Day 01 | [Pre-work](class-01.md)
+| Assignment | Links |
+| -----------|------------- |
+| Day 01 | [Pre-work](/class-01.md) 
 Day 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 Day 03 | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 Day 04 | [HTML Links, CSS Layout, JS Functions](class-04.md)
@@ -36,15 +36,15 @@ Day 15 | [ class 15](class-15.md)
 
 
 # 301
-Assignment | Links 
------------|-------------
-Day 01 | [read 1](301-class-01.md)
-Day 02 | [React: Component Lifecycle Events](301-class-02.md)
-Day 03 | []
-Day 04 | 
-Day 05 |
-Day 06 | 
-Day 07 | 
+| Assignment | Links |
+| -----------|------------- |
+| Day 01 | [read 1](Code-301-Reading-notes/301-class-01.md) |
+| Day 02 | [React: Component Lifecycle Events](Code-301-Reading-notes/301-class-02.md) |
+| Day 03 | [read 3](Code-301-Reading-notes/301-class-03.md) |
+| Day 04 | [read 4](Code-301-Reading-notes/301-class-04.md) |
+| Day 05 | [read 5](Code-301-Reading-notes/301-class-05.md) |
+| Day 06 | |
+| Day 07 | |
 
 
 
