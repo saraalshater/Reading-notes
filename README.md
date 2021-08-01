@@ -43,7 +43,7 @@ Day 15 | [ class 15](class-15.md)
 | Day 03 | [read 3](Code-301-Reading-notes/301-class-03.md) |
 | Day 04 | [read 4](Code-301-Reading-notes/301-class-04.md) |
 | Day 05 | [read 5](Code-301-Reading-notes/301-class-05.md) |
-| Day 06 | |
+| Day 06 | [Node.js & pair programming](Code-301-Reading-notes/301-class-06.md)|
 | Day 07 | |
 
 
