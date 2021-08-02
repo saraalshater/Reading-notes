@@ -45,6 +45,8 @@ Day 15 | [ class 15](class-15.md)
 | Day 05 | [read 5](Code-301-Reading-notes/301-class-05.md) |
 | Day 06 | [Node.js & pair programming](Code-301-Reading-notes/301-class-06.md)|
 | Day 07 | [class 7](Code-301-Reading-notes/301-class-07.md)|
+| Day 08 | [RESTful web API design](Code-301-Reading-notes/301-class-08.md)|
+
 
 
 
