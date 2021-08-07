@@ -48,6 +48,8 @@ Day 15 | [ class 15](class-15.md)
 | Day 08 | [RESTful web API design](Code-301-Reading-notes/301-class-08.md)|
 | Day 09 | [functional programming](Code-301-Reading-notes/301-class-09.md)|
 | Day 10 | [Javascript Call Stack & Errors](Code-301-Reading-notes/301-class-10.md)|
+| Day 11 | [Authorization and Authentication flows & OAuth](Code-301-Reading-notes/301-class-11.md) |
+
 
 
 
