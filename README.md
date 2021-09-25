@@ -56,7 +56,7 @@ Day 15 | [ class 15](class-15.md)
 # Code 401 - Advanced Software Development
 | Assignment | Links |
 | -----------|------------- |
-| Day 01 | []() |
+| Day 01 | [Jave-basics](Code-401-Reading-notes/Jave-basics.md) |
 | Day 02 | []() |
 | Day 03 | []() |
 | Day 04 | []() |
