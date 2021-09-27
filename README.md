@@ -57,7 +57,7 @@ Day 15 | [ class 15](class-15.md)
 | Assignment | Links |
 | -----------|------------- |
 | Day 01 | [Jave-basics](Code-401-Reading-notes/Jave-basics.md) |
-| Day 02 | []() |
+| Day 02 | [Array-loops-imports](Code-401-Reading-notes/Array-loops-imports.md.md) |
 | Day 03 | []() |
 | Day 04 | []() |
 | Day 05 | []() |
