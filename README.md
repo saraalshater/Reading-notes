@@ -59,7 +59,7 @@ Day 15 | [ class 15](class-15.md)
 | Day 01 | [Jave-basics](Code-401-Reading-notes/Jave-basics.md) |
 | Day 02 | [Array-loops-imports](Code-401-Reading-notes/Array-loops-imports.md) |
 | Day 03 | [read 3](Code-401-Reading-notes/read3.md) |
-| Day 04 | []() |
+| Day 04 | [Read 4](Code-401-Reading-notes/read4.md) |
 | Day 05 | []() |
 | Day 06 | []() |
 | Day 07 | []() |
