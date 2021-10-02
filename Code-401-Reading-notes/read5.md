@@ -29,7 +29,7 @@ T**he higher this number, the more likely there will be an increase to Running T
 
 
 ----------------------------------------------------------------------------------
-[linked list](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+# [linked list](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
 A Linked List is a **sequence of Nodes that are connected/linked to each other.** The most defining feature of a Linked List is that each Node references the next Node in the link.
 
