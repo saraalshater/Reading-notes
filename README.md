@@ -63,8 +63,8 @@ Day 15 | [ class 15](class-15.md)
 | Day 05 | [read 5](Code-401-Reading-notes/read5.md) |
 | Day 06 | [Java Inheritance & Interfaces Tutorial](Code-401-Reading-notes/read6.md) |
 | Day 07 | [read 7](Code-401-Reading-notes/read7.md) |
-| Day 08 | []() |
-| Day 09 | []() |
+| Day 08 | [read 8](Code-401-Reading-notes/read8.md) |
+| Day 09 | [read 9](Code-401-Reading-notes/read9.md) |
 | Day 10 | []() |
 | Day 11 | []() |
 | Day 12 | []() |
