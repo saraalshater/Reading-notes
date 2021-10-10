@@ -65,8 +65,8 @@ Day 15 | [ class 15](class-15.md)
 | Day 07 | [read 7](Code-401-Reading-notes/read7.md) |
 | Day 08 | [read 8](Code-401-Reading-notes/read8.md) |
 | Day 09 | [read 9](Code-401-Reading-notes/read9.md) |
-| Day 10 | []() |
-| Day 11 | []() |
+| Day 10 | [read 10](Code-401-Reading-notes/read10.md) |
+| Day 11 | [read 11](Code-401-Reading-notes/read11.md) |
 | Day 12 | []() |
 | Day 13 | []() |
 | Day 14 | []() |
