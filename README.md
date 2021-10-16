@@ -70,7 +70,7 @@ Day 15 | [ class 15](class-15.md)
 | Day 12 | [read 12]() |
 | Day 13 | [read 13](Code-401-Reading-notes/read13.md) |
 | Day 14 | []() |
-| Day 15 | []() |
+| Day 15 | [read 15](Code-401-Reading-notes/read15.md) |
 | Day 16 | []() |
 | Day 17 | []() |
 | Day 18 | []() |
