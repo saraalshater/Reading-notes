@@ -72,7 +72,7 @@ Day 15 | [ class 15](class-15.md)
 | Day 14 | []() |
 | Day 15 | [read 15](Code-401-Reading-notes/read15.md) |
 | Day 16 | [Spring auth](Code-401-Reading-notes/read16.md) |
-| Day 17 | []() |
+| Day 17 | [Spring Boot and OAuth2](Code-401-Reading-notes/read17.md) |
 | Day 18 | []() |
 | Day 19 | []() |
 | Day 20 | []() |
