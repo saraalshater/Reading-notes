@@ -77,7 +77,7 @@ Day 15 | [ class 15](class-15.md)
 | Day 19 | [read 19](Code-401-Reading-notes/read19.md) |
 | Day 26 | [read 26](Code-401-Reading-notes/read26.md) |
 | Day 27 | [read 27](Code-401-Reading-notes/read27.md) |
-| Day 28 | []() |
+| Day 28 | [read 28](Code-401-Reading-notes/read28.md) |
 | Day 29 | []() |
 | Day 30 | []() |
 | Day 31 | []() |
