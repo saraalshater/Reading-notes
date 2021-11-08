@@ -81,7 +81,7 @@ Day 15 | [ class 15](class-15.md)
 | Day 29 | [Room](Code-401-Reading-notes/read29.md) |
 | Day 30 | [read 30](Code-401-Reading-notes/read30.md) |
 | Day 31 | [Espresso](Code-401-Reading-notes/Espresso.md) |
-| Day 32 | []() |
+| Day 32 | [read32 ](Code-401-Reading-notes/read32.md) |
 | Day 33 | []() |
 | Day 34 | []() |
 | Day 35 | []() |
