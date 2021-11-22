@@ -90,8 +90,8 @@ Day 15 | [ class 15](class-15.md)
 | Day 38 | []() |
 | Day 39 | []() |
 | Day 40 | []() |
-| Day 41 | []() |
-| Day 42 | []() |
+| Day 41 | [read]() |
+| Day 42 | [read42](Code-401-Reading-notes/read42.md) |
 | Day 43 | []() |
 | Day 44 | []() |
 | Day 45 | []() |
